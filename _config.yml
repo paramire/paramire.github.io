@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: "blog.anek.cl"
+baseurl: ""
 domain_name: "http://blog.anek.cl"
 google_analytics: "G-JBGR5W92KB"
 plugins: [jekyll-paginate]
