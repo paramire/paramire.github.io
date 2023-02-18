@@ -1,16 +1,16 @@
 name: Anek Blog
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+description: "Anek Blog: Escribiendo algunas cosas interesantes acerca del conocimiento que voy adquiriendo en Desarrollo de Software y Computación Cientifica"
+meta_description: "Anek Blog: Escribiendo algunas cosas interesantes acerca del conocimiento que voy adquiriendo en Desarrollo de Software y Computación Cientifica"
 
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: ""
+baseurl: "blog.anek.cl"
 domain_name: "http://blog.anek.cl"
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "G-JBGR5W92KB"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: ""
+url: "blog.anek.cl"
 author: "Patricio Ramirez"
