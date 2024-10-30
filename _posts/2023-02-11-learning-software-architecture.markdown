@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Aprendiendo Arquitectura de Software"
-date: 2023-02-11 22:40:00
+description: "Trade-offs una de las primeras cosas a aprender a identificar"
+date: 2023-02-11 22:40:00 +0300
+image: '/images/02.jpg'
+tags: [architecture, learning]
 categories: General
 ---
 
